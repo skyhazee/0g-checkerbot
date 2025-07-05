@@ -1,4 +1,4 @@
-# 0G Checker Bot for Telegram
+# 0G Checker Bot
 
 This Telegram bot allows you to check the rank, total mining rewards, address balance, and transaction history link for any 0G miner address on the Chainscan Galileo leaderboard.
 
